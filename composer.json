@@ -1,0 +1,9 @@
+{
+  "require": {
+    "asimlqt/php-google-spreadsheet-client": "2.3.*",
+    "google/apiclient": "1.1.2"
+  },
+  "autoload": {
+      "psr-4": {"Vol2223\\Sgdrive\\": "src/"}
+  }
+}
